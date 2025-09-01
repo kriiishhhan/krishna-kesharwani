@@ -1,7 +1,7 @@
 
-[
+card =[
     {
-        "image": "/assets/chili.png",
+        "image": "../assets/chili.png",
         "name": "chili"
     },
     {
